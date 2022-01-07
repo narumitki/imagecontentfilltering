@@ -1,0 +1,11 @@
+AnimeHead
+Human_body
+Human_face
+NSFW
+Oboe
+Office_supplies
+Oyster
+Paddle
+Pen
+Person
+Weapon
