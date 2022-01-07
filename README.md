@@ -4,13 +4,13 @@
 # DiR tree
 ![plot](./path_model.jpg)
 
--- /app
-  --- /best_model
-      --- /assets
-      --- /variables
-	  --- variables.data-00000-of-00001
-	  --- variables.index
-  --- /checkpoints
-      --- checkpoint
-      --- yolov3_custom.data-00000-of-00001
-      --- yolov3_custom.index
+-- /app 
+    --- /best_model 
+        --- /assets 
+        --- /variables 
+            --- variables.data-00000-of-00001 
+            --- variables.index 
+    --- /checkpoints 
+        --- checkpoint 
+        --- yolov3_custom.data-00000-of-00001 
+        --- yolov3_custom.index
